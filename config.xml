@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "org.altervista.creativitainformaticart.Web_CAD_X3DOM_di_Cona_Pietro"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Web_CAD_SVG_di_Cona_Pietro</name>
+
+  <description>
+      Web_CAD_SVG_di_Cona_Pietro<br /><br />
+      
+      http://creativitainformaticart.altervista.org
+  </description>
+
+  <author href="http://creativitainformaticart.altervista.org" email="pietro.72.prog@gmail.com">
+      Cona Pietro
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
