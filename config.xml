@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "org.altervista.creativitainformaticart.Web_CAD_X3DOM_di_Cona_Pietro"
+    id          = "org.altervista.creativitainformaticart.Web_CAD_SVG_di_Cona_Pietro"
     versionCode = "10"
     version     = "1.0.0" >
 
